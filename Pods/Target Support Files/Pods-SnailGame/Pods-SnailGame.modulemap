@@ -1,0 +1,6 @@
+module Pods_SnailGame {
+  umbrella header "Pods-SnailGame-umbrella.h"
+
+  export *
+  module * { export * }
+}

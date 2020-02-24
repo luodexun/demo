@@ -1,0 +1,27 @@
+target 'SnailGame' do
+    # 数据模型框架
+    pod 'HandyJSON'
+    # 数据模型框架
+    pod 'SwiftyJSON'
+    # 网络请求框架
+    pod 'Alamofire'
+    # 图片加载框架
+    pod 'AlamofireImage'
+    # 下拉刷新 上拉加载
+    pod 'MJRefresh'
+    # 轮播图UI组件
+    pod 'SDCycleScrollView'
+    # 键盘弹出管理
+    pod 'IQKeyboardManagerSwift'
+    # 仿appstore横向滚动图片
+    pod 'ASHorizontalScrollView'
+    # 图片选取框架
+    pod 'TZImagePickerController'
+    # js交互
+    pod "dsBridge"
+    # 提示框
+    pod 'Toast-Swift'
+    # 友盟分享
+    pod 'UMCCommon'
+    pod 'UMCShare/Social/ReducedWeChat'
+end

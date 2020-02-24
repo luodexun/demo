@@ -1,0 +1,75 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireImage (3.6.0):
+    - Alamofire (~> 4.9)
+  - ASHorizontalScrollView (1.5.2)
+  - dsBridge (3.0.6)
+  - HandyJSON (5.0.1)
+  - IQKeyboardManagerSwift (6.5.4)
+  - MJRefresh (3.2.3)
+  - SDCycleScrollView (1.80):
+    - SDWebImage (>= 5.0.0)
+  - SDWebImage (5.3.2):
+    - SDWebImage/Core (= 5.3.2)
+  - SDWebImage/Core (5.3.2)
+  - SwiftyJSON (5.0.0)
+  - Toast-Swift (5.0.0)
+  - TZImagePickerController (3.2.7)
+  - UMCCommon (2.1.1)
+  - UMCShare/Core (6.9.6):
+    - UMCCommon
+  - UMCShare/Social/ReducedWeChat (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - ASHorizontalScrollView
+  - dsBridge
+  - HandyJSON
+  - IQKeyboardManagerSwift
+  - MJRefresh
+  - SDCycleScrollView
+  - SwiftyJSON
+  - Toast-Swift
+  - TZImagePickerController
+  - UMCCommon
+  - UMCShare/Social/ReducedWeChat
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - ASHorizontalScrollView
+    - dsBridge
+    - HandyJSON
+    - IQKeyboardManagerSwift
+    - MJRefresh
+    - SDCycleScrollView
+    - SDWebImage
+    - SwiftyJSON
+    - Toast-Swift
+    - TZImagePickerController
+    - UMCCommon
+    - UMCShare
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireImage: be9963c6582d68b39e89191f64c82a7d7bf40fdd
+  ASHorizontalScrollView: b84b60fa1ce2088d569e5faa8379846c143c824d
+  dsBridge: 48b62ee8a411ad601a88d6f6c8cf6cb634b206b7
+  HandyJSON: d45b8415c501e3affc59ca9762c1197ff0feb646
+  IQKeyboardManagerSwift: 2dde0fc70110e8eac7ccce2a46fdbec6a850b414
+  MJRefresh: 2b1214a2dc8f4df4c5dcb028ea2ad4e245425fb7
+  SDCycleScrollView: b3c9a5ed840c771c4938978174c7c9d9feefeb96
+  SDWebImage: 6ac2eb96571bff96ecde31a987172c5934a0eb7d
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Toast-Swift: 36f4720243c8582c2be243a60a51e193c761f541
+  TZImagePickerController: 821b81f83594a736e831a018f2a2ce31822ddf0b
+  UMCCommon: 971f324a5a99c9d662ae040a815e7e3d7ef8b2a8
+  UMCShare: e0cef55c0fd6051254c8cda1d0630eb578b27bad
+
+PODFILE CHECKSUM: 850380c08e3f62695499a0cb3e94f70e93b86c2c
+
+COCOAPODS: 1.8.4
